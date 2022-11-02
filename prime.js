@@ -1,4 +1,4 @@
-let a=16;
+let a=23;
 function prime(a){
     sum=0;
     for(let i=1;i<=a;i++){
